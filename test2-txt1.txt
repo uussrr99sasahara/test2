@@ -3,3 +3,4 @@ master
 change1
 remoto-change1
 local-change
+local-change2
